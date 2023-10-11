@@ -1,2 +1,5 @@
 # mebni
-Mebni Compro
+Blog and Compro
+
+composer update
+npm install
